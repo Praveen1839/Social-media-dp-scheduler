@@ -1,4 +1,4 @@
-# Instagram DP Scheduler (Semi-Automated)
+# Social media DP Scheduler (Semi-Automated)
 
 A simple Flask + Selenium-based web tool to help schedule and manage Instagram display picture (DP) changes.  
 Since Instagram restricts profile picture uploads via automation, this project assists the user in navigating directly to the profile edit screen, where they can manually update the DP with ease.
